@@ -6,10 +6,10 @@ paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Sayanti
+title: The Blog test
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Testing theme fork
 url: http://barber.samesies.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
